@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Code academy student <br>Junior
 
 
