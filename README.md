@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Namig Abilov</h1>
-<h3 align="center">.Net BackeEnd developer Form Azerbaijan</h3>
+<h3 align="center">.Net Back-End developer Form Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namigabilov&label=Profile%20views&color=0e75b6&style=flat" alt="namigabilov" /> </p>
 
